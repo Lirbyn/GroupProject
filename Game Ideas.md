@@ -7,7 +7,7 @@ Add your game ideas here;
   - Trying to breach security of company, bank, military
   - Get past antiviruses
   - Cracking codes
-  - 
+  
 2. Playing from defenders points of view, as firewall/antivirus
   - Defending from incoming hackers, viruses
 
