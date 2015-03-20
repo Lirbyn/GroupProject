@@ -1,0 +1,6 @@
+Discussion of the features for the Top-Down Maze Game
+Features:
+- Play as a hacker
+- Timer for the level
+- Unlock doors by hacking them, as you get closer to the end the doors get harder to hack. 
+- AI are blue dots and randomly patrol the area until they encounter the player
